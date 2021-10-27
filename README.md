@@ -9,7 +9,7 @@ I specialize in:
 - :package: Package development
 
 ### I spend a lot of time in R 
-I use these **all** day: 
+I use these: 
 <p align="left">  
   <a href="https://github.com/tidyverse/dplyr"     ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png"     width="50px"/></a>
   <a href="https://github.com/tidyverse/ggplot2"   ><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png"   width="50px"/></a>
@@ -24,7 +24,7 @@ I use these **all** day:
   <a href="https://github.com/r-lib/roxygen2"      ><img src="https://raw.githubusercontent.com/r-lib/roxygen2/master/man/figures/logo.png"    width="50px"/></a>
 </p>
 
-I maintain: 
+I maintain these: 
 <p align="left">
   <a href="https://rjake.github.io/simplecolors"><img src= "https://raw.githubusercontent.com/rjake/simplecolors/master/man/figures/logo.png"  width="50px"/></a>
   <a href="https://rjake.github.io/shinyobjects"><img src= "https://raw.githubusercontent.com/rjake/shinyobjects/master/man/figures/logo.png"  width="50px"/></a>
