@@ -40,9 +40,9 @@ I maintain these:
   <a href="https://www.linkedin.com/in/jake-riley-70736a3">
     <img src="https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge" 
          alt="LinkedIn"></a>
-  <a href="https://github.com/rjake/one-off-projects">
-    <img src="https://img.shields.io/badge/-Weird Projects-555555?style=for-the-badge" 
-         alt="WEirD PRojEcTs"></a>
+  <a href="https://rjake.github.io/one-off-projects/">
+    <img src="https://img.shields.io/badge/-Portfolio-555555?style=for-the-badge" 
+         alt="Portfolio"></a>
 </p>
   
 <!--
