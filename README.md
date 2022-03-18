@@ -1,6 +1,6 @@
 
 ### :wave: Hi there, I am Jake!
-I am a clinical data analyst at the [Children's Hospital of Philadelphia](www.chop.edu). My projects are focused on improving the workflow of other analysts and supporting our central analytics architecture team.
+I am a clinical data analyst at the [Children's Hospital of Philadelphia](http://www.chop.edu). My projects are focused on improving the workflow of other analysts and supporting our central analytics architecture team.
 
 I specialize in: 
 - :bar_chart: Data visualization, dashboarding and reports with [`shiny`](https://shiny.rstudio.com)/[`flexdashboards`](https://pkgs.rstudio.com/flexdashboard/articles/using.html#layout)
