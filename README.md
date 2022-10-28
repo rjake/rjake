@@ -34,7 +34,7 @@ I maintain these:
 
 ### Want to know more? 
 <p align="left">
-  <a href="https://rjake.github.io/one-off-projects/resume/resume.pdf">
+  <a href="https://rjake.github.io/one-off-projects/R/resume/resume.pdf">
     <img src="https://img.shields.io/badge/-Resume-555555?style=for-the-badge" 
          alt="Resume"></a>
   <a href="https://www.linkedin.com/in/jake-riley-70736a3">
